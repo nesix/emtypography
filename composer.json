@@ -1,0 +1,13 @@
+{
+  "name": "nesix/emtypography",
+  "type": "library",
+  "description": "PHP library",
+  "autoload": {
+    "psr-4": {
+      "EMTypography\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.0"
+  }
+}
